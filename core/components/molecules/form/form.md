@@ -6,7 +6,7 @@
 
 ---
 
-Form is a compound component that ships with `Form.Field` that can wrapped around input elements.
+Form is another simple change! compound component that ships with `Form.Field` that can wrapped around input elements.
 
 ```jsx
 <Form {props}>
